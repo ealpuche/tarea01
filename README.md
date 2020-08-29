@@ -1,2 +1,2 @@
-# tarea01
-Esta es la tarea 1 del curso de Java Full Stack de Mitocode
+# TAREA 1 DEK CURSO DE JAVA FULLSTACK DE MITOCODE
+Autor: Elmer Alpuche
